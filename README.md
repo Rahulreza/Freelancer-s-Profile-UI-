@@ -1,16 +1,29 @@
-# day12
+## Freelancer's Profile UI 
 
-A new Flutter project.
+## Used:
+->Model Class 
+->SingleChildScrollView
+->Scaffold
+->Column
+->ListTile
+->Row
+->CircleAvatar
+->ListView
+->Appbar
+->Icon
+->Expanded
+->Textstyle
+->Clicpreact
+->Mediaquery
+->Container
+->BoxDecoration
+->Borderradius
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## UI Design:
+![freelancer's profile UI ](https://user-images.githubusercontent.com/48874418/218330033-6caaa760-ef7c-409c-9458-79fd93bc3f8c.png)
 
-A few resources to get you started if this is your first Flutter project:
+## UI Video:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/48874418/218330079-722be8b5-a96d-41a2-9a07-b151427c8f52.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
